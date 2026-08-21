@@ -309,8 +309,8 @@ body {
     width: 20.2%; 
     height: 30px; 
 
-    margin-right: auto; 
-    margin-left: 0; 
+    margin-right:0; 
+    margin-left: auto; 
 
     display: flex; 
     align-items: center; 
